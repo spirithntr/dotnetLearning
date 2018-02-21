@@ -1,0 +1,10 @@
+D:\study\dotnet\balance\bin\Debug\netcoreapp2.0\balance.deps.json
+D:\study\dotnet\balance\bin\Debug\netcoreapp2.0\balance.runtimeconfig.json
+D:\study\dotnet\balance\bin\Debug\netcoreapp2.0\balance.runtimeconfig.dev.json
+D:\study\dotnet\balance\bin\Debug\netcoreapp2.0\balance.dll
+D:\study\dotnet\balance\bin\Debug\netcoreapp2.0\balance.pdb
+D:\study\dotnet\balance\obj\Debug\netcoreapp2.0\balance.csproj.CoreCompileInputs.cache
+D:\study\dotnet\balance\obj\Debug\netcoreapp2.0\balance.AssemblyInfoInputs.cache
+D:\study\dotnet\balance\obj\Debug\netcoreapp2.0\balance.AssemblyInfo.cs
+D:\study\dotnet\balance\obj\Debug\netcoreapp2.0\balance.dll
+D:\study\dotnet\balance\obj\Debug\netcoreapp2.0\balance.pdb
